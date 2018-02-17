@@ -1,0 +1,34 @@
+.header {
+    height:50px;
+    width: 100%;
+    /* 23E */
+    background-color:#ab2a19;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   }
+.logo{
+    /* 23D 24E */
+    width:auto;
+    height: auto;
+    left:-165;
+    color: white;
+    font-size:30px;
+    font-weight: 700;
+    padding-top: 125px;
+    padding-right: 320px;
+    padding-bottom: 55px;
+    font-family: Open Sans,sans-serif;
+    
+}
+.logo img{
+    vertical-align: middle;
+    padding-right: 10px;
+
+}
+.siteName{
+vertical-align: middle;
+}
+
+
