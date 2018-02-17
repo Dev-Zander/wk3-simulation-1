@@ -8,6 +8,7 @@
     cursor: pointer;
     background-color: #D34735;
     font-size: 30px;
+    margin: 20px auto;
 }
 .shelf_span {
     position: relative;
@@ -24,6 +25,7 @@
     font-weight: 700;
     font-family: sans-serif;
     color: white;
+    
 
 }
 a{text-decoration:none }
